@@ -98,3 +98,6 @@ traceroute to www.example.com (10.130.1.4), 30 hops max, 60 byte packets
 ```
 
 You can find the instructions here: [The Network Playground](playground).
+
+tips:
+1. folder named python_base is my notes on studying Python
