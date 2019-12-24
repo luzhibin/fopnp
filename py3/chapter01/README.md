@@ -1,6 +1,6 @@
 [Return to the Table of Contents](https://github.com/brandon-rhodes/fopnp#readme)
 
-# Chapter 1<br>Introduction to Client-Server Networking
+# Chapter 1<br>客户端/服务器网络编程简介
 
 This is a directory of program listings from Chapter 1 of the book:
 
