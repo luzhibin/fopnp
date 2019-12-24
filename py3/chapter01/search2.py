@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter01/search2.py
+# 代码清单1-2 从谷歌地理编码API获取一个JSON文档
 
 # (The Google API originally used in this example now requires API keys,
 #  so here's an alternative that calls openstreetmap.org.)
