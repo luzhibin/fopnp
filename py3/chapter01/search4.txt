@@ -1,3 +1,5 @@
+# 代码清单1-5  search4.py的运行输出
+
 HTTP/1.1 200 OK
 Content-Type: text/javascript; charset=UTF-8
 Vary: Accept-Language
