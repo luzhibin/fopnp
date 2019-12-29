@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter06/test_tls.py
 # Attempt a TLS connection and, if successful, report its properties
+# 代码清单6-4 连接至任意TLS终端并打印出协商通过的加密算法
 
 import argparse, socket, ssl, sys, textwrap
 import ctypes
