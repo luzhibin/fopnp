@@ -4,6 +4,7 @@
 #
 # Someday this script will use message.iter_attachments() instead of
 # walking through them itself, but http://bugs.python.org/issue21079
+# 代码清单12-4 使用EmailMessage读取邮件体及附件
 
 import argparse, email.policy, sys
 
