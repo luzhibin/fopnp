@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter07/client.py
 # Simple Zen-of-Python client that asks three questions then disconnects.
+# 代码清单7-2 用于《Python之禅》示例协议的客户端程序
 
 import argparse, random, socket, zen_utils
 
