@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter07/zen_utils.py
 # Constants and routines for supporting a certain network conversation.
+# 代码清单7-1 支持《Python之禅》示例协议的数据与规则
 
 import argparse, socket, time
 
