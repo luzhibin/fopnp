@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter07/srv_asyncio2.py
 # Asynchronous I/O inside an "asyncio" coroutine.
+# 代码清单7-8 协程风格的asyncio服务器
 
 import asyncio, zen_utils
 
