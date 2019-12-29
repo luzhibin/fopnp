@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter12/build_basic_email.py
+# 代码清单12-2 生成一个包含简单文本的电子邮件消息
 
 import email.message, email.policy, email.utils, sys
 
