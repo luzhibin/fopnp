@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter16/sftp_get.py
 # Fetching files with SFTP
+# 代码清单16-7 使用SFTP列出目录内容并获取文件
 
 import argparse, functools, paramiko
 
