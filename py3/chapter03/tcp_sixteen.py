@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter03/tcp_sixteen.py
 # Simple TCP client and server that send and receive 16 octets
+# 代码清单3-1 简单的TCP服务器和客户端
 
 import argparse, socket
 
