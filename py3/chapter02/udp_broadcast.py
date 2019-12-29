@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter02/udp_broadcast.py
 # UDP client and server for broadcast messages on a local LAN
+# 代码清单2-4 UDP广播
 
 import argparse, socket
 
