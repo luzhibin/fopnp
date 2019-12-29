@@ -4,6 +4,7 @@
 #
 # Someday this script will use part.is_attachment instead of making the
 # decision itself, but http://bugs.python.org/issue21079
+# 代码清单12-5 手动遍历一个multipart消息的所有部件
 
 import argparse, email.policy, sys
 
