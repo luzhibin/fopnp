@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter12/build_mime_email.py
+# 代码清单12-3 构造包含HTML、内嵌图片以及附件的MIME格式电子邮件
 
 import argparse, email.message, email.policy, email.utils, mimetypes, sys
 
