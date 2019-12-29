@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter06/safe_tls.py
 # Simple TLS client and server using safe configuration defaults
+# 代码清单6-3 在Python3.4或更新版本的Python中，通过TLS提供套接字的安全通信
 
 import argparse, socket, ssl
 
