@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter03/tcp_deadlock.py
 # TCP client and server that leave too much data waiting
+# 代码清单3-2 可能造成死锁的TCP服务器和客户端
 
 import argparse, socket, sys
 
