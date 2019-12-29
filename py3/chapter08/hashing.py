@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter08/hashing.py
 # Hashes are a great way to divide work.
+# 代码清单8-2 向服务器分配数据的两种机制——数据中的模式与散列值中的位
 
 import hashlib
 
