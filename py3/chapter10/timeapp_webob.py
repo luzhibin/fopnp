@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter10/timeapp_webob.py
 # A WSGI callable built using webob.
+# 代码清单10-3 使用WebOb编写的可调用对象返回当前时间
 
 import time, webob
 
