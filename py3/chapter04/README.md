@@ -4,8 +4,13 @@
 # 第四章<br>套接字名与DNS
 ---
 ### 以下是有代码的章节
-* 4.1
-
+* 4.2.6 在代码中使用getaddrinfo()
+     * 代码清单4-1 使用getaddrinfo()创建并连接套接字  
+* 4.3.2 使用python进行DNS查询
+     * 代码清单4-2 一个包含递归的简单DNS查询
+* 4.3.3 解析邮箱域名
+     * 代码清单4-3 解析电子邮件域名  
+---     
 This is a directory of program listings from Chapter 4 of the book:
 
 <dl>
