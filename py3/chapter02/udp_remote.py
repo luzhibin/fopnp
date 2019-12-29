@@ -2,7 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter02/udp_remote.py
 # UDP client and server for talking over the network
-# 代码清单2-2 运行在不同机器上的UDP服务器与客户端
+# 代码清单2-2  运行在不同机器上的UDP服务器与客户端
 
 import argparse, random, socket, sys
 
