@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter08/queuepi.py
 # Small application that uses several different message queues
+# 代码清单8-3 连接5个不同模块的MQ消息机制
 
 import random, threading, time, zmq
 B = 32  # number of bits of precision in each random integer
