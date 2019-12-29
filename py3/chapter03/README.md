@@ -1,7 +1,13 @@
 [Return to the Table of Contents](https://github.com/brandon-rhodes/fopnp#readme)
 
 # Chapter 3<br>TCP
-
+---
+### 以下是有代码的章节
+* 3.4 一个简单的TCP客户端和服务器
+  * 代码清单3-1 简单的TCP服务器和客户端
+* 3.6 死锁
+    * 代码清单3-2 可能造成死锁的TCP服务器和客户端
+---
 This is a directory of program listings from Chapter 3 of the book:
 
 <dl>
