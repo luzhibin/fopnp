@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter16/telnet_login.py
 # Connect to localhost, watch for a login prompt, and try logging in
+# 代码清单16-2 使用Telnet登录远程主机
 
 import argparse, getpass, telnetlib
 
