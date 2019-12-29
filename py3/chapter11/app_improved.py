@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter11/app_improved.py
 # A payments application with basic security improvements added.
+# 代码清单11-8 改进的支付应用程序app_improved.py
 
 import bank, uuid
 from flask import (Flask, abort, flash, get_flashed_messages,
