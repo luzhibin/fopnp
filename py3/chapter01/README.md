@@ -1,6 +1,8 @@
 [Return to the Table of Contents](https://github.com/brandon-rhodes/fopnp#readme)
 
 # Chapter 1<br>客户端/服务器网络编程简介
+### 以下是含有代码的章节
+---
 * 1.1 基础：协议栈与库
   * 代码清单1-1 获取经度与维度
 * 1.2 应用层
@@ -13,6 +15,7 @@
 * 1.5 层层深入
 * 1.6 编码与解码
   * 代码清单1-6 解码输入字节，编码输出字符
+---
 
 This is a directory of program listings from Chapter 1 of the book:
 
