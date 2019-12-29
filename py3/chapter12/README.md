@@ -1,6 +1,20 @@
 [Return to the Table of Contents](https://github.com/brandon-rhodes/fopnp#readme)
 
 # Chapter 12<br>Building and Parsing E-Mail
+# 第12章 电子邮件的构造与解析
+---
+### 以下是含有代码的章节
+* 12.2 构造电子邮件消息
+  * 代码清单12-2 生成一个包含简单文本的电子邮件消息
+* 12.3 添加HTML与多媒体
+  * 代码清单12-3 构造包含HTML、内嵌图片以及附件的MIME格式电子邮件
+* 12.5 解析电子邮件消息
+  *代码清单12-4 使用EmailMessage读取邮件体及附件
+* 12.6 遍历MIME部件
+  * 代码清单12-5 手动遍历一个multipart消息的所有部件
+* 12.7 邮件头编码
+  * 代码清单12-6 生成提供国际化支持的电子邮件，用于测试代码清单12-5中的解析脚本
+---
 
 This is a directory of program listings from Chapter 12 of the book:
 
