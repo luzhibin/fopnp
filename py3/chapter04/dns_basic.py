@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter04/dns_basic.py
 # Basic DNS query
+# 代码清单4-2 一个包含递归的简单DNS查询
 
 import argparse, dns.resolver
 
