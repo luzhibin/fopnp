@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter05/blocks.py
 # Sending data over a stream but delimited as length-prefixed blocks.
+# 代码清单5-2 使用长度前缀将每个数据块封装为帧
 
 import socket, struct
 from argparse import ArgumentParser
