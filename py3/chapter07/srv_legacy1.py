@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter07/srv_legacy1.py
 # Uses the legacy "socketserver" Standard Library module to write a server.
+# 代码清单7-5 使用标准库服务器模式构建的多线程服务器
 
 from socketserver import BaseRequestHandler, TCPServer, ThreadingMixIn
 import zen_utils
