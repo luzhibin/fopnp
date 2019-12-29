@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter05/streamer.py
 # Client that sends data then closes the socket, not expecting a reply.
+# 代码清单5-1 直接发送所有数据，然后关闭连接
 
 import socket
 from argparse import ArgumentParser
