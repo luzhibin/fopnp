@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter07/srv_async.py
 # Asynchronous I/O driven directly by the poll() system call.
+# 代码清单7-6 一个简单的异步事件循环
 
 import select, zen_utils
 
