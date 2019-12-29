@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter07/in_zen1.py
 # Single-shot server for the use of inetd(8).
+# 代码清单7-10 响应一个将套接字连接到stdin/stdout/stderr的客户端
 
 import socket, sys, zen_utils
 
