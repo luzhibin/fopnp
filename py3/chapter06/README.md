@@ -1,7 +1,14 @@
 [Return to the Table of Contents](https://github.com/brandon-rhodes/fopnp#readme)
 
 # Chapter 6<br>TLS/SSL
-
+# 第6章 TLS/SSL
+---
+### 以下是含有代码的章节
+* 6.5 Python3.4默认上下文
+  * 代码清单6-3 在Python3.4或更新版本的Python中，通过TLS提供套接字的安全通信
+* 6.8 了解细节
+  * 代码清单6-4 连接至任意TLS终端并打印出协商通过的加密算法 
+---
 This is a directory of program listings from Chapter 6 of the book:
 
 <dl>
