@@ -2,7 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter02/big_sender.py
 # Send a big UDP datagram to learn the MTU of the network path.
-# 代码清单2-3 发送大型UDP数据包
+# 代码清单2-3  发送大型UDP数据包
 
 import argparse, socket, sys
 
