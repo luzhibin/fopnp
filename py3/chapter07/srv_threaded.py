@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter07/srv_threaded.py
 # Using multiple threads to serve several clients in parallel.
+# 代码清单7-4 多线程服务器
 
 import zen_utils
 from threading import Thread
