@@ -6,7 +6,7 @@
 ### 以下是含有代码的章节
 * 5.2 封帧与引用
   * 代码清单5-1 直接发送所有数据，然后关闭连接
-  * 代码清单5-2 使用长度前缀将每个数据块封装为帧  
+  * 代码清单5-2 使用长度前缀将每个数据块封装为帧   
 ---  
 
 This is a directory of program listings from Chapter 5 of the book:
