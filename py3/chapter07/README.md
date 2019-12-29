@@ -1,7 +1,29 @@
 [Return to the Table of Contents](https://github.com/brandon-rhodes/fopnp#readme)
 
 # Chapter 7<br>Server Architecture
-
+# 第7章 服务器架构
+---
+### 以下是含有代码的章节
+* 7.2 一个简单的协议
+    * 代码清单7-1 支持《Python之禅》示例协议的数据与规则
+    * 代码清单7-2 用于《Python之禅》示例协议的客户端程序
+* 7.3 单线程服务器
+    * 代码清单7-3 最简单的可用服务器是单线程的
+* 7.4 多线程与多进程服务器
+    * 代码清单7-4 多线程服务器
+    * 代码清单7-5 使用标准库服务器模式构建的多线程服务器
+* 7.5 异步服务器
+    * 代码清单7-6 一个简单的异步事件循环
+* 7.5.1 回调风格的asyncio
+    * 代码清单7-7 回调风格的asyncio服务器
+* 7.5.2 协程风格的asyncio
+    * 代码清单7-8 协程风格的asyncio服务器
+* 7.5.3 遗留模块的asyncore
+    * 代码清单7-9 使用旧式的asyncore框架
+* 7.6 在inetd下运行
+    * 代码清单7-10 响应一个将套接字连接到stdin/stdout/stderr的客户端
+    * 代码清单7-11 对一个或多个客户端连接做出响应，最终发生超时
+---    
 This is a directory of program listings from Chapter 7 of the book:
 
 <dl>
