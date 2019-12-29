@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter10/timeapp_raw.py
 # A simple HTTP service built directly against the low-level WSGI spec.
+# 代码清单10-2 用于返回当前时间的原始WSGI可调用对象 
 
 import time
 
