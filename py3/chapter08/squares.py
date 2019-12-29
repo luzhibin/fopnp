@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter08/squares.py
 # Using memcached to cache expensive results.
+# 代码清单8-1 使用memcached为一个花销很大的操作加速
 
 import memcache, random, time, timeit
 
