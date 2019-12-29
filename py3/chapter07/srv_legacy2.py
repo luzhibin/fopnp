@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter07/srv_legacy2.py
 # Uses the legacy "asyncore" Standard Library module to write a server.
+# 代码清单7-9 使用旧式的asyncore框架
 
 import asyncore, asynchat, zen_utils
 
