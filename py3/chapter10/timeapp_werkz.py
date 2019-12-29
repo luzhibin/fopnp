@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter10/timeapp_werkz.py
 # A WSGI callable built using Werkzeug.
+# 代码清单10-4 使用Werkzeug编写的WSGI可调用对象返回当前时间
 
 import time
 from werkzeug.wrappers import Request, Response
