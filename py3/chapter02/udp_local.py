@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter02/udp_local.py
 # UDP client and server on localhost
+# 代码清单2-1  使用子环接口的UPD服务器和客户端
 
 import argparse, socket
 from datetime import datetime
