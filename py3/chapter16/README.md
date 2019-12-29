@@ -1,6 +1,21 @@
 [Return to the Table of Contents](https://github.com/brandon-rhodes/fopnp#readme)
 
 # Chapter 16<br>Telnet and SSH
+# 第16章 Telnet和SSH
+---
+### 以下是含有代码的章节
+* 16.1 命令行自动化
+    * 代码清单16-1 支持以空格来分隔参数的shell
+* 16.2 Telnet
+    * 代码清单16-2 使用Telnet登录远程主机
+    * 代码清单16-3 处理Telnet选项码的方法
+* 16.3 SSH
+    * 代码清单16-4 在SSH下运行交互式shell
+    * 代码清单16-5 运行独立的SSH命令
+    * 代码清单16-6 并行运行的SSH通信
+* 16.3.5 SFTP：通过SSH进行文件传输
+代码清单16-7 使用SFTP列出目录内容并获取文件
+---
 
 This is a directory of program listings from Chapter 16 of the book:
 
@@ -86,7 +101,8 @@ $ python3 ssh_simple.py www.example.com brandon
 Welcome to Ubuntu 14.04.1 LTS (GNU/Linux 3.13.0-24-generic x86_64)
 
  * Documentation:  https://help.ubuntu.com/
-Last login: Wed Oct 22 21:38:21 2014 from modema
+Last login: Wed Oct 22 21:38:21 2014 from modema
+
 echo Hello, world
 exit
 $ Hello, world
