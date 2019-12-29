@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter16/ssh_commands.py
 # Running three separate commands, and reading three separate outputs
+# 代码清单16-5 运行独立的SSH命令
 
 import argparse, paramiko
 
