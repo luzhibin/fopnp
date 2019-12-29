@@ -1,7 +1,16 @@
 [Return to the Table of Contents](https://github.com/brandon-rhodes/fopnp#readme)
 
 # Chapter 8<br>Caches and Message Queues
-
+# 第8章 缓存与消息队列
+---
+### 以下是含有代码的部分
+* 8.1 使用Memcached
+  * 代码清单8-1 使用memcached为一个花销很大的操作加速
+* 8.2 散列与分区
+  * 代码清单8-2 向服务器分配数据的两种机制——数据中的模式与散列值中的位
+* 8.3 消息队列-在Python中使用消息队列
+  * 代码清单8-3 连接5个不同模块的MQ消息机制
+---
 This is a directory of program listings from Chapter 8 of the book:
 
 <dl>
