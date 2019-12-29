@@ -1,6 +1,18 @@
 [Return to the Table of Contents](https://github.com/brandon-rhodes/fopnp#readme)
 
 # Chapter 1<br>客户端/服务器网络编程简介
+* 1.1 基础：协议栈与库
+  * 代码清单1-1 获取经度与维度
+* 1.2 应用层
+  * 代码清单1-2 从谷歌地理编码API获取一个JSON文档
+* 1.3 协议的使用
+  * 代码清单1-3 使用原始HTTP操作连接谷歌地图
+* 1.4一个原始的网络会话
+  * 代码清单1-4 直接使用套接字与谷歌地图通信
+  * 代码清单1-5 search4.py的运行输出
+* 1.5 层层深入
+* 1.6 编码与解码
+  * 代码清单1-6 解码输入字节，编码输出字符
 
 This is a directory of program listings from Chapter 1 of the book:
 
