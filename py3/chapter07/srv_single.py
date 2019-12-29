@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter07/srv_single.py
 # Single-threaded server that serves one client at a time; others must wait.
+# 代码清单7-3 最简单的可用服务器是单线程的
 
 import zen_utils
 
