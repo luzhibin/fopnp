@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter10/wsgi_env.py
 # A simple HTTP service built directly against the low-level WSGI spec.
+# 代码清单10-1 以WSGI应用程序形式编写的简单HTTP服务
 
 from pprint import pformat
 from wsgiref.simple_server import make_server
