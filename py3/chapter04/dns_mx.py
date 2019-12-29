@@ -2,6 +2,7 @@
 # Foundations of Python Network Programming, Third Edition
 # https://github.com/brandon-rhodes/fopnp/blob/m/py3/chapter04/dns_mx.py
 # Looking up a mail domain - the part of an email address after the `@`
+# 代码清单4-3 解析电子邮件域名
 
 import argparse, dns.resolver
 
